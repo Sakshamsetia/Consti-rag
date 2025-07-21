@@ -1,0 +1,7 @@
+python-dotenv
+pydantic
+google-genai
+langchain
+langchain-core
+langchain-community
+gradio
